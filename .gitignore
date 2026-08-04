@@ -3,3 +3,5 @@
 *.a
 *.obj
 ./HM2/decode
+testcase/
+*.zip
